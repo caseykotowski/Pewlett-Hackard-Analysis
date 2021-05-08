@@ -21,7 +21,7 @@ After sifting through the data, I determined the best way to break this down for
 
 * When this data was presented to HR, they wanted to combat the loss of expertise, so they came up with a plan to add in a mentorship program. Those nearing retirement age can be paired with recent hires to make the transitions smoothe. By merging tables, I filtered the retirees for the youngest eligable for retirement. The thought here is that they have the potential to stay in the mentorship program the longest. Below is a snip from the top of the mentor list:
 
-![Mentorship Eligibility](https://github.com/caseykotowski/Pewlett-Hackard-Analysis/blob/main/mentorship_eligibility.csv)
+![Mentorship Eligibility](https://github.com/caseykotowski/Pewlett-Hackard-Analysis/blob/main/mentorship-eligibility.png)
 
 ### Summary
 
